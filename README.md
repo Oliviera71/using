@@ -26,3 +26,9 @@ int main() {
 
     return 0;
 }
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xfF56AFed2801f7DFdf4C692ED126Bdb8f916dAe2'
+quorum: 1
